@@ -22,6 +22,11 @@
   <br>
   <h4 align="center"> Node JS language
   <h4 align="center"> Express JS
+  <h4 align="center"> Nodemailer
+  <h4 align="center"> dotenv
+  <h4 align="center"> JSON Web Token Generator
+  <h4 align="center"> OTP Generator
+  <h4 align="center"> Nodemon
   <h4 align="center"> MongoDB Atlas live
   <h4 align="center"> REST APIs.
   <h4 align="center"> VS-CODE
